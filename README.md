@@ -5,7 +5,7 @@ A Passionate Full Stack Developer
 ---------------------------------
 As a software developer with a deep passion for coding and problem-solving. I thrive on the excitement of learning new technologies and continuously expanding my skill set. Sharing my knowledge with others and helping them grow is something I find incredibly rewarding. I am committed to delivering high-quality and high-performance results in every project I undertake. Collaboration is key to my work, and I enjoy contributing to and learning from the projects of others. 
 
-- 💻 Full Stack Developer at [littlemoments](https://github.com/littlemoment-thurstech)
+- 💻 Full Stack Developer at [Thurs Tech OPC Pvt Ltd](https://github.com/littlemoment-thurstech)
 
 - 📂 Ask me about **Node.js, React.js, Next.js, MongoDB etc**
 
